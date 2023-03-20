@@ -23,6 +23,8 @@ jobs:
 
       - name: Build
         run: |
+          sudo apt-get -q update
+          sudo apt install rename
           mkdir Rel
           touch ./Rel/.nojekyll
           cp ./feed/IPKFeedGenerator.jar ./Rel/
