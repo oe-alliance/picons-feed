@@ -29,8 +29,8 @@ jobs:
           touch ./Rel/.nojekyll
           cp ./feed/IPKFeedGenerator.jar ./Rel/
           cd ./Rel/
-          wget -c -nH -r -q -l0 -A ipk -np -nd --wait=3 --execute="robots = off" https://openpicons.com/picons/?dir=full-motor-snp
-          wget -c -nH -r -q -l0 -A ipk -np -nd --wait=3 --execute="robots = off" https://openpicons.com/picons/?dir=full-motor-srp
+          wget -c -nH -r -q -l0 -A ipk -np -nd --wait=3 --execute="robots = off" --reject="*.800x450*" https://openpicons.com/picons/?dir=full-motor-snp
+          wget -c -nH -r -q -l0 -A ipk -np -nd --wait=3 --execute="robots = off" --reject="*.800x450*" https://openpicons.com/picons/?dir=full-motor-srp
           rename 'y/A-Z/a-z/' *.ipk
           find . -name '*.ipk' -size +98M | xargs rm -f
           chmod 755 IPKFeedGenerator.jar
