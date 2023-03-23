@@ -27,15 +27,18 @@ jobs:
           sudo apt install rename
           mkdir Rel
           touch ./Rel/.nojekyll
-          cp ./feed/IPKFeedGenerator.jar ./Rel/
+          cp ./feed/* ./Rel/
           cd ./Rel/
           wget -c -nH -r -q -l0 -A ipk -np -nd --wait=3 --execute="robots = off" --reject="*.800x450*" https://openpicons.com/picons/?dir=full-motor-snp
           wget -c -nH -r -q -l0 -A ipk -np -nd --wait=3 --execute="robots = off" --reject="*.800x450*" https://openpicons.com/picons/?dir=full-motor-srp
           rename 'y/A-Z/a-z/' *.ipk
           find . -name '*.ipk' -size +98M | xargs rm -f
           chmod 755 IPKFeedGenerator.jar
+          chmod 755 ipkg-make-index.sh
           java -jar IPKFeedGenerator.jar
+          ./ipkg-make-index.sh
           rm IPKFeedGenerator.jar
+          rm ipkg-make-index.sh
 
       - uses: peaceiris/actions-gh-pages@v3
         with:
