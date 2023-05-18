@@ -1,4 +1,5 @@
 # oe-alliance-picon-feed
+Autogerated picons feed (based on Open Vision/Persian Prince's work)
 
 ## Installation
 
