@@ -16,7 +16,7 @@ for pkg in $(find . -name '*.ipk' | sort); do
     if ($0 ~ "^Version:") {
       printf "Version: %s\n", newver
     } else if ($0 ~ "^Description:") {
-      printf "Filename: %s\nSize: %s\nMD5Sum: %s\nDescription:%s\n", pkgname, filesize, md5, description
+      printf "Filename: %s\nSize: %s\nMD5Sum: %s\nDescription: %s\n", pkgname, filesize, md5, description
     } else {
       print
     }
