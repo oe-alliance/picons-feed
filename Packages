@@ -1,0 +1,1824 @@
+Package: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.blue
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.blue_2023-07-10--17-23-09_all.ipk
+Size: 21678578
+MD5Sum: 292097fa6ab48c3b798947fa9f128989
+Description: snp-full.100x60-86x46.dark.on.blue
+OE: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.blue
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.reflection
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.reflection_2023-07-10--17-23-09_all.ipk
+Size: 23522512
+MD5Sum: 02bf3e7007186033685362c98c54926d
+Description: snp-full.100x60-86x46.dark.on.reflection
+OE: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.reflection
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.transparent
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.transparent_2023-07-10--17-23-09_all.ipk
+Size: 17753826
+MD5Sum: 2291f8c8f88a3eee127a19d20fd36bfc
+Description: snp-full.100x60-86x46.dark.on.transparent
+OE: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.white
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.white_2023-07-10--17-23-09_all.ipk
+Size: 19337506
+MD5Sum: c8485602ae20c98a34610060c65680c9
+Description: snp-full.100x60-86x46.dark.on.white
+OE: enigma2-plugin-picons-snp-full.100x60-86x46.dark.on.white
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-full.100x60-86x46.light.on.black
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-full.100x60-86x46.light.on.black_2023-07-10--17-23-09_all.ipk
+Size: 22076280
+MD5Sum: fccdba34cd171821e46d62e0685056a2
+Description: snp-full.100x60-86x46.light.on.black
+OE: enigma2-plugin-picons-snp-full.100x60-86x46.light.on.black
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-full.100x60-86x46.light.on.transparent
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-full.100x60-86x46.light.on.transparent_2023-07-10--17-23-09_all.ipk
+Size: 17614656
+MD5Sum: 9e7054ba053ce0cefd6ac55076cbb0d2
+Description: snp-full.100x60-86x46.light.on.transparent
+OE: enigma2-plugin-picons-snp-full.100x60-86x46.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.blue
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.blue_2023-07-10--17-23-09_all.ipk
+Size: 45231218
+MD5Sum: 032a539d32a37bc61daac2ba436cea30
+Description: snp-full.220x132-190x102.dark.on.blue
+OE: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.blue
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.reflection
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.reflection_2023-07-10--17-23-09_all.ipk
+Size: 52119380
+MD5Sum: 801c4e2945e2b77405adb5e7c5c080fe
+Description: snp-full.220x132-190x102.dark.on.reflection
+OE: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.reflection
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.transparent
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.transparent_2023-07-10--17-23-09_all.ipk
+Size: 35733946
+MD5Sum: 7f289d5e63d673b4fd2268779c142613
+Description: snp-full.220x132-190x102.dark.on.transparent
+OE: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.white
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.white_2023-07-10--17-23-09_all.ipk
+Size: 39526518
+MD5Sum: e98ed5d4aea0191c82a331edf7c66c15
+Description: snp-full.220x132-190x102.dark.on.white
+OE: enigma2-plugin-picons-snp-full.220x132-190x102.dark.on.white
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.black-er
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.black-er_2023-07-10--17-23-09_all.ipk
+Size: 43378266
+MD5Sum: 2d55465c601532508d4dae573b4581fe
+Description: snp-full.220x132-190x102.light.on.black-er
+OE: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.black-er
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.black
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.black_2023-07-10--17-23-09_all.ipk
+Size: 46586182
+MD5Sum: 370cb1d985046ccaeea7d20092befe72
+Description: snp-full.220x132-190x102.light.on.black
+OE: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.black
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.transparent
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.transparent_2023-07-10--17-23-09_all.ipk
+Size: 35577198
+MD5Sum: 3b4307f0ecd2b4de0781867d668e52c3
+Description: snp-full.220x132-190x102.light.on.transparent
+OE: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-full.220x132-220x132.dark.on.transparent
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-full.220x132-220x132.dark.on.transparent_2023-07-10--17-23-09_all.ipk
+Size: 43051728
+MD5Sum: 6c34f19f42c4e306472428b2de901c20
+Description: snp-full.220x132-220x132.dark.on.transparent
+OE: enigma2-plugin-picons-snp-full.220x132-220x132.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-full.220x132-220x132.light.on.transparent
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-full.220x132-220x132.light.on.transparent_2023-07-10--17-23-09_all.ipk
+Size: 42877988
+MD5Sum: 9be321d219dc2c139ff7943dfe0e4333
+Description: snp-full.220x132-220x132.light.on.transparent
+OE: enigma2-plugin-picons-snp-full.220x132-220x132.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-full.400x170-370x140.dark.on.transparent
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-full.400x170-370x140.dark.on.transparent_2023-07-10--17-23-09_all.ipk
+Size: 59400244
+MD5Sum: a7392f1fc0fb977dde699f2094e36ee2
+Description: snp-full.400x170-370x140.dark.on.transparent
+OE: enigma2-plugin-picons-snp-full.400x170-370x140.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-full.400x240-370x210.dark.on.blue
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-full.400x240-370x210.dark.on.blue_2023-07-10--17-23-09_all.ipk
+Size: 91873250
+MD5Sum: e456867cfce4253b47db6ae4b4ae2eda
+Description: snp-full.400x240-370x210.dark.on.blue
+OE: enigma2-plugin-picons-snp-full.400x240-370x210.dark.on.blue
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-full.400x240-370x210.light.on.transparent
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-full.400x240-370x210.light.on.transparent_2023-07-10--17-23-09_all.ipk
+Size: 74704952
+MD5Sum: 0cfd8d6c2f08264286425ab6882f8c79
+Description: snp-full.400x240-370x210.light.on.transparent
+OE: enigma2-plugin-picons-snp-full.400x240-370x210.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-full.400x240-400x240.light.on.transparent
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-full.400x240-400x240.light.on.transparent_2023-07-10--17-23-09_all.ipk
+Size: 83838044
+MD5Sum: feb5c407487c12a03b049dde1165ff3e
+Description: snp-full.400x240-400x240.light.on.transparent
+OE: enigma2-plugin-picons-snp-full.400x240-400x240.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-hispasat.30w.100x60-86x46.dark.on.blue
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-hispasat.30w.100x60-86x46.dark.on.blue_2023-05-11--15-58-40_all.ipk
+Size: 461310
+MD5Sum: 50d828baeb5b2a993df1cbed7fd106f3
+Description: snp-hispasat.30w.100x60-86x46.dark.on.blue
+OE: enigma2-plugin-picons-snp-hispasat.30w.100x60-86x46.dark.on.blue
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-hispasat.30w.100x60-86x46.dark.on.reflection
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-hispasat.30w.100x60-86x46.dark.on.reflection_2023-05-11--15-58-40_all.ipk
+Size: 506748
+MD5Sum: 76b87f44942b868c63a4076286b4e303
+Description: snp-hispasat.30w.100x60-86x46.dark.on.reflection
+OE: enigma2-plugin-picons-snp-hispasat.30w.100x60-86x46.dark.on.reflection
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-hispasat.30w.100x60-86x46.dark.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-hispasat.30w.100x60-86x46.dark.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 356954
+MD5Sum: f1bfb39ce681b9eb67bab907b89d33a4
+Description: snp-hispasat.30w.100x60-86x46.dark.on.transparent
+OE: enigma2-plugin-picons-snp-hispasat.30w.100x60-86x46.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-hispasat.30w.100x60-86x46.dark.on.white
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-hispasat.30w.100x60-86x46.dark.on.white_2023-05-11--15-58-40_all.ipk
+Size: 402798
+MD5Sum: 140ae3f7ce7455a4c2582b12bfebcc16
+Description: snp-hispasat.30w.100x60-86x46.dark.on.white
+OE: enigma2-plugin-picons-snp-hispasat.30w.100x60-86x46.dark.on.white
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-hispasat.30w.100x60-86x46.light.on.black
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-hispasat.30w.100x60-86x46.light.on.black_2023-05-11--15-58-40_all.ipk
+Size: 469250
+MD5Sum: f7711438d19f34f319b8622594cbae40
+Description: snp-hispasat.30w.100x60-86x46.light.on.black
+OE: enigma2-plugin-picons-snp-hispasat.30w.100x60-86x46.light.on.black
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-hispasat.30w.100x60-86x46.light.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-hispasat.30w.100x60-86x46.light.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 350860
+MD5Sum: 6bedbd62ef70d157868fe3bd63269001
+Description: snp-hispasat.30w.100x60-86x46.light.on.transparent
+OE: enigma2-plugin-picons-snp-hispasat.30w.100x60-86x46.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-hispasat.30w.220x132-190x102.dark.on.blue
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-hispasat.30w.220x132-190x102.dark.on.blue_2023-05-11--15-58-40_all.ipk
+Size: 928272
+MD5Sum: 63514d2efed85be9237c2882a9f1d111
+Description: snp-hispasat.30w.220x132-190x102.dark.on.blue
+OE: enigma2-plugin-picons-snp-hispasat.30w.220x132-190x102.dark.on.blue
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-hispasat.30w.220x132-190x102.dark.on.reflection
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-hispasat.30w.220x132-190x102.dark.on.reflection_2023-05-11--15-58-40_all.ipk
+Size: 1101744
+MD5Sum: e8d63af330cdd2a6adaf01a6b09b6529
+Description: snp-hispasat.30w.220x132-190x102.dark.on.reflection
+OE: enigma2-plugin-picons-snp-hispasat.30w.220x132-190x102.dark.on.reflection
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-hispasat.30w.220x132-190x102.dark.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-hispasat.30w.220x132-190x102.dark.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 690842
+MD5Sum: 83eaac505b02fff580944db5b84a33c9
+Description: snp-hispasat.30w.220x132-190x102.dark.on.transparent
+OE: enigma2-plugin-picons-snp-hispasat.30w.220x132-190x102.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-hispasat.30w.220x132-190x102.dark.on.white
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-hispasat.30w.220x132-190x102.dark.on.white_2023-05-11--15-58-40_all.ipk
+Size: 782878
+MD5Sum: 72b4585af13cfa8e04495c1f55dcb6f4
+Description: snp-hispasat.30w.220x132-190x102.dark.on.white
+OE: enigma2-plugin-picons-snp-hispasat.30w.220x132-190x102.dark.on.white
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-hispasat.30w.220x132-190x102.light.on.black-er
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-hispasat.30w.220x132-190x102.light.on.black-er_2023-05-11--15-58-40_all.ipk
+Size: 864088
+MD5Sum: bbf48fb7d2c24907ffdc65d95b3feb57
+Description: snp-hispasat.30w.220x132-190x102.light.on.black-er
+OE: enigma2-plugin-picons-snp-hispasat.30w.220x132-190x102.light.on.black-er
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-hispasat.30w.220x132-190x102.light.on.black
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-hispasat.30w.220x132-190x102.light.on.black_2023-05-11--15-58-40_all.ipk
+Size: 959856
+MD5Sum: 5b0299697c7b8184258a82e59f7eda6b
+Description: snp-hispasat.30w.220x132-190x102.light.on.black
+OE: enigma2-plugin-picons-snp-hispasat.30w.220x132-190x102.light.on.black
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-hispasat.30w.220x132-190x102.light.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-hispasat.30w.220x132-190x102.light.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 684500
+MD5Sum: d1ac55a8a7e1dc514d553f75e3447892
+Description: snp-hispasat.30w.220x132-190x102.light.on.transparent
+OE: enigma2-plugin-picons-snp-hispasat.30w.220x132-190x102.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-hispasat.30w.220x132-220x132.dark.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-hispasat.30w.220x132-220x132.dark.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 813900
+MD5Sum: fce7d985c99ab79e1c8a0843676b6406
+Description: snp-hispasat.30w.220x132-220x132.dark.on.transparent
+OE: enigma2-plugin-picons-snp-hispasat.30w.220x132-220x132.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-hispasat.30w.220x132-220x132.light.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-hispasat.30w.220x132-220x132.light.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 805760
+MD5Sum: f2b6187bf1dd2a911769a33b37fba3f4
+Description: snp-hispasat.30w.220x132-220x132.light.on.transparent
+OE: enigma2-plugin-picons-snp-hispasat.30w.220x132-220x132.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-hispasat.30w.400x170-370x140.dark.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-hispasat.30w.400x170-370x140.dark.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 1116968
+MD5Sum: cc4032887ecd360c8257eafb5942e09e
+Description: snp-hispasat.30w.400x170-370x140.dark.on.transparent
+OE: enigma2-plugin-picons-snp-hispasat.30w.400x170-370x140.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-hispasat.30w.400x240-370x210.dark.on.blue
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-hispasat.30w.400x240-370x210.dark.on.blue_2023-05-11--15-58-40_all.ipk
+Size: 1791758
+MD5Sum: 06d731159b376441185d495a326724db
+Description: snp-hispasat.30w.400x240-370x210.dark.on.blue
+OE: enigma2-plugin-picons-snp-hispasat.30w.400x240-370x210.dark.on.blue
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-hispasat.30w.400x240-370x210.light.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-hispasat.30w.400x240-370x210.light.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 1345636
+MD5Sum: 138b4f1ea69b5a693a3f8ba3b8e18cb9
+Description: snp-hispasat.30w.400x240-370x210.light.on.transparent
+OE: enigma2-plugin-picons-snp-hispasat.30w.400x240-370x210.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-hispasat.30w.400x240-400x240.light.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-hispasat.30w.400x240-400x240.light.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 1489134
+MD5Sum: d1eadffd6ae1405597091b045b02ec0f
+Description: snp-hispasat.30w.400x240-400x240.light.on.transparent
+OE: enigma2-plugin-picons-snp-hispasat.30w.400x240-400x240.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-nos.cabo.100x60-86x46.dark.on.blue
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-nos.cabo.100x60-86x46.dark.on.blue_2023-05-11--15-58-40_all.ipk
+Size: 515434
+MD5Sum: c65e582962077984ac4d744259267a16
+Description: snp-nos.cabo.100x60-86x46.dark.on.blue
+OE: enigma2-plugin-picons-snp-nos.cabo.100x60-86x46.dark.on.blue
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-nos.cabo.100x60-86x46.dark.on.reflection
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-nos.cabo.100x60-86x46.dark.on.reflection_2023-05-11--15-58-40_all.ipk
+Size: 564670
+MD5Sum: bb89de0ac386c3227a18e6b285b321f7
+Description: snp-nos.cabo.100x60-86x46.dark.on.reflection
+OE: enigma2-plugin-picons-snp-nos.cabo.100x60-86x46.dark.on.reflection
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-nos.cabo.100x60-86x46.dark.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-nos.cabo.100x60-86x46.dark.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 399956
+MD5Sum: b0bf0b7cbcce13b8d079370de300bdcb
+Description: snp-nos.cabo.100x60-86x46.dark.on.transparent
+OE: enigma2-plugin-picons-snp-nos.cabo.100x60-86x46.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-nos.cabo.100x60-86x46.dark.on.white
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-nos.cabo.100x60-86x46.dark.on.white_2023-05-11--15-58-40_all.ipk
+Size: 448140
+MD5Sum: fd0e00e8162f7b13abf003fa368d616a
+Description: snp-nos.cabo.100x60-86x46.dark.on.white
+OE: enigma2-plugin-picons-snp-nos.cabo.100x60-86x46.dark.on.white
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-nos.cabo.100x60-86x46.light.on.black
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-nos.cabo.100x60-86x46.light.on.black_2023-05-11--15-58-40_all.ipk
+Size: 525034
+MD5Sum: f6fe24f51b8d5f779b7520771af4ec18
+Description: snp-nos.cabo.100x60-86x46.light.on.black
+OE: enigma2-plugin-picons-snp-nos.cabo.100x60-86x46.light.on.black
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-nos.cabo.100x60-86x46.light.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-nos.cabo.100x60-86x46.light.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 392950
+MD5Sum: b93755de4830c39c1d12985d29132531
+Description: snp-nos.cabo.100x60-86x46.light.on.transparent
+OE: enigma2-plugin-picons-snp-nos.cabo.100x60-86x46.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-nos.cabo.220x132-190x102.dark.on.blue
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-nos.cabo.220x132-190x102.dark.on.blue_2023-05-11--15-58-40_all.ipk
+Size: 1033684
+MD5Sum: b843d94cc6bed43eba86c3c7474c275c
+Description: snp-nos.cabo.220x132-190x102.dark.on.blue
+OE: enigma2-plugin-picons-snp-nos.cabo.220x132-190x102.dark.on.blue
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-nos.cabo.220x132-190x102.dark.on.reflection
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-nos.cabo.220x132-190x102.dark.on.reflection_2023-05-11--15-58-40_all.ipk
+Size: 1221118
+MD5Sum: 811aac49882432ccae715ea21750a4e3
+Description: snp-nos.cabo.220x132-190x102.dark.on.reflection
+OE: enigma2-plugin-picons-snp-nos.cabo.220x132-190x102.dark.on.reflection
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-nos.cabo.220x132-190x102.dark.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-nos.cabo.220x132-190x102.dark.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 765772
+MD5Sum: a40a0f66e11963eabfe12cbe7b446619
+Description: snp-nos.cabo.220x132-190x102.dark.on.transparent
+OE: enigma2-plugin-picons-snp-nos.cabo.220x132-190x102.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-nos.cabo.220x132-190x102.dark.on.white
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-nos.cabo.220x132-190x102.dark.on.white_2023-05-11--15-58-40_all.ipk
+Size: 870974
+MD5Sum: 5930e05869b5d20b2acaef5cba6c5e92
+Description: snp-nos.cabo.220x132-190x102.dark.on.white
+OE: enigma2-plugin-picons-snp-nos.cabo.220x132-190x102.dark.on.white
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-nos.cabo.220x132-190x102.light.on.black-er
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-nos.cabo.220x132-190x102.light.on.black-er_2023-05-11--15-58-40_all.ipk
+Size: 963080
+MD5Sum: 068d91833cae2ebcf8a12a23c979c6bd
+Description: snp-nos.cabo.220x132-190x102.light.on.black-er
+OE: enigma2-plugin-picons-snp-nos.cabo.220x132-190x102.light.on.black-er
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-nos.cabo.220x132-190x102.light.on.black
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-nos.cabo.220x132-190x102.light.on.black_2023-05-11--15-58-40_all.ipk
+Size: 1065640
+MD5Sum: 51b80368e5aa27a6dc8c45b77f5fda30
+Description: snp-nos.cabo.220x132-190x102.light.on.black
+OE: enigma2-plugin-picons-snp-nos.cabo.220x132-190x102.light.on.black
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-nos.cabo.220x132-190x102.light.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-nos.cabo.220x132-190x102.light.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 756464
+MD5Sum: fec2e6b0a4e4e0fa867a456084b3bc73
+Description: snp-nos.cabo.220x132-190x102.light.on.transparent
+OE: enigma2-plugin-picons-snp-nos.cabo.220x132-190x102.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-nos.cabo.220x132-220x132.dark.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-nos.cabo.220x132-220x132.dark.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 900608
+MD5Sum: e73aea4c21934976225f126f5dfabc40
+Description: snp-nos.cabo.220x132-220x132.dark.on.transparent
+OE: enigma2-plugin-picons-snp-nos.cabo.220x132-220x132.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-nos.cabo.220x132-220x132.light.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-nos.cabo.220x132-220x132.light.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 890214
+MD5Sum: 69a113be9606ae92d7282f630696d954
+Description: snp-nos.cabo.220x132-220x132.light.on.transparent
+OE: enigma2-plugin-picons-snp-nos.cabo.220x132-220x132.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-nos.cabo.400x170-370x140.dark.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-nos.cabo.400x170-370x140.dark.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 1241720
+MD5Sum: 437861e2f4e888167dd7bf104a7983ba
+Description: snp-nos.cabo.400x170-370x140.dark.on.transparent
+OE: enigma2-plugin-picons-snp-nos.cabo.400x170-370x140.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-nos.cabo.400x240-370x210.dark.on.blue
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-nos.cabo.400x240-370x210.dark.on.blue_2023-05-11--15-58-40_all.ipk
+Size: 1979512
+MD5Sum: d48e44e2445b7bee6fec2d45de3f6e49
+Description: snp-nos.cabo.400x240-370x210.dark.on.blue
+OE: enigma2-plugin-picons-snp-nos.cabo.400x240-370x210.dark.on.blue
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-nos.cabo.400x240-370x210.light.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-nos.cabo.400x240-370x210.light.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 1473536
+MD5Sum: 4b87d78294e8fa5f20ff3dd61f98c44a
+Description: snp-nos.cabo.400x240-370x210.light.on.transparent
+OE: enigma2-plugin-picons-snp-nos.cabo.400x240-370x210.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-snp-nos.cabo.400x240-400x240.light.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-snp-nos.cabo.400x240-400x240.light.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 1628726
+MD5Sum: b015c48925d1cf292d5d5e979a19fc30
+Description: snp-nos.cabo.400x240-400x240.light.on.transparent
+OE: enigma2-plugin-picons-snp-nos.cabo.400x240-400x240.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.blue
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.blue_2023-07-10--17-23-09_all.ipk
+Size: 16019638
+MD5Sum: 2c420380d715ad8e8f1687b022c03065
+Description: srp-full.100x60-86x46.dark.on.blue
+OE: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.blue
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.reflection
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.reflection_2023-07-10--17-23-09_all.ipk
+Size: 17380154
+MD5Sum: 3211a9282052baea04a4033c2d4a8208
+Description: srp-full.100x60-86x46.dark.on.reflection
+OE: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.reflection
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.transparent
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.transparent_2023-07-10--17-23-09_all.ipk
+Size: 13080588
+MD5Sum: b974f56b3e1e433a9841882f5eeeb187
+Description: srp-full.100x60-86x46.dark.on.transparent
+OE: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.white
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.white_2023-07-10--17-23-09_all.ipk
+Size: 14262078
+MD5Sum: ef813d23914da8dc48767cc7178bb30c
+Description: srp-full.100x60-86x46.dark.on.white
+OE: enigma2-plugin-picons-srp-full.100x60-86x46.dark.on.white
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-full.100x60-86x46.light.on.black
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-full.100x60-86x46.light.on.black_2023-07-10--17-23-09_all.ipk
+Size: 16303180
+MD5Sum: 6ce789e03a71d13cdcbd2a5606b56ba9
+Description: srp-full.100x60-86x46.light.on.black
+OE: enigma2-plugin-picons-srp-full.100x60-86x46.light.on.black
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-full.100x60-86x46.light.on.transparent
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-full.100x60-86x46.light.on.transparent_2023-07-10--17-23-09_all.ipk
+Size: 12968518
+MD5Sum: c4fc44ee878695f680b9a4c530af8d2d
+Description: srp-full.100x60-86x46.light.on.transparent
+OE: enigma2-plugin-picons-srp-full.100x60-86x46.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.blue
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.blue_2023-07-10--17-23-09_all.ipk
+Size: 32954804
+MD5Sum: db6031fa62e98c6c3f5e5fafa9a7128f
+Description: srp-full.220x132-190x102.dark.on.blue
+OE: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.blue
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.reflection
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.reflection_2023-07-10--17-23-09_all.ipk
+Size: 38019720
+MD5Sum: b3f850ad465f2ef095457369548ff50f
+Description: srp-full.220x132-190x102.dark.on.reflection
+OE: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.reflection
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.transparent
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.transparent_2023-07-10--17-23-09_all.ipk
+Size: 25858578
+MD5Sum: 6663a0d8ae4b9ff13d9d00d44d4af426
+Description: srp-full.220x132-190x102.dark.on.transparent
+OE: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.white
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.white_2023-07-10--17-23-09_all.ipk
+Size: 28668518
+MD5Sum: 92a1ab2d6e1485a26ccb37e9aba05ad8
+Description: srp-full.220x132-190x102.dark.on.white
+OE: enigma2-plugin-picons-srp-full.220x132-190x102.dark.on.white
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.black-er
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.black-er_2023-07-10--17-23-09_all.ipk
+Size: 31476780
+MD5Sum: c3961c20a22f89961fca94b79f76d5e8
+Description: srp-full.220x132-190x102.light.on.black-er
+OE: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.black-er
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.black
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.black_2023-07-10--17-23-09_all.ipk
+Size: 33926130
+MD5Sum: 7490ac4876cbc45250760a9001d49ac2
+Description: srp-full.220x132-190x102.light.on.black
+OE: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.black
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.transparent
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.transparent_2023-07-10--17-23-09_all.ipk
+Size: 25731268
+MD5Sum: 95dbda7b4e45a1b63ecd8b01d86f9223
+Description: srp-full.220x132-190x102.light.on.transparent
+OE: enigma2-plugin-picons-srp-full.220x132-190x102.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-full.220x132-220x132.dark.on.transparent
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-full.220x132-220x132.dark.on.transparent_2023-07-10--17-23-09_all.ipk
+Size: 31014768
+MD5Sum: 427267f51857183f997cbaf2e51dc68f
+Description: srp-full.220x132-220x132.dark.on.transparent
+OE: enigma2-plugin-picons-srp-full.220x132-220x132.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-full.220x132-220x132.light.on.transparent
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-full.220x132-220x132.light.on.transparent_2023-07-10--17-23-09_all.ipk
+Size: 30874276
+MD5Sum: 7141e1deb8e73b89ffc4276a1af4f5cb
+Description: srp-full.220x132-220x132.light.on.transparent
+OE: enigma2-plugin-picons-srp-full.220x132-220x132.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-full.400x170-370x140.dark.on.transparent
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-full.400x170-370x140.dark.on.transparent_2023-07-10--17-23-09_all.ipk
+Size: 42694084
+MD5Sum: e9e80322d00411f2badb626faddf5bce
+Description: srp-full.400x170-370x140.dark.on.transparent
+OE: enigma2-plugin-picons-srp-full.400x170-370x140.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-full.400x240-370x210.dark.on.blue
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-full.400x240-370x210.dark.on.blue_2023-07-10--17-23-09_all.ipk
+Size: 66252490
+MD5Sum: 74e190832bc050c4c2218fe76dd3f0fb
+Description: srp-full.400x240-370x210.dark.on.blue
+OE: enigma2-plugin-picons-srp-full.400x240-370x210.dark.on.blue
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-full.400x240-370x210.light.on.transparent
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-full.400x240-370x210.light.on.transparent_2023-07-10--17-23-09_all.ipk
+Size: 53370760
+MD5Sum: 76eff3e48619ca35d214221cc980fe72
+Description: srp-full.400x240-370x210.light.on.transparent
+OE: enigma2-plugin-picons-srp-full.400x240-370x210.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-full.400x240-400x240.light.on.transparent
+Version: 2023-07-10
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-full.400x240-400x240.light.on.transparent_2023-07-10--17-23-09_all.ipk
+Size: 59782444
+MD5Sum: ff38fe95e669bff10eadc20bcaac449f
+Description: srp-full.400x240-400x240.light.on.transparent
+OE: enigma2-plugin-picons-srp-full.400x240-400x240.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-hispasat.30w.100x60-86x46.dark.on.blue
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-hispasat.30w.100x60-86x46.dark.on.blue_2023-05-11--15-58-40_all.ipk
+Size: 443810
+MD5Sum: 8e9a0173d4012875f480bb2b18d6208a
+Description: srp-hispasat.30w.100x60-86x46.dark.on.blue
+OE: enigma2-plugin-picons-srp-hispasat.30w.100x60-86x46.dark.on.blue
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-hispasat.30w.100x60-86x46.dark.on.reflection
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-hispasat.30w.100x60-86x46.dark.on.reflection_2023-05-11--15-58-40_all.ipk
+Size: 486992
+MD5Sum: 24feb5a79d17df74f03d0fe0cdf1082f
+Description: srp-hispasat.30w.100x60-86x46.dark.on.reflection
+OE: enigma2-plugin-picons-srp-hispasat.30w.100x60-86x46.dark.on.reflection
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-hispasat.30w.100x60-86x46.dark.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-hispasat.30w.100x60-86x46.dark.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 343302
+MD5Sum: 73960d6213530819c8e95ece6054d578
+Description: srp-hispasat.30w.100x60-86x46.dark.on.transparent
+OE: enigma2-plugin-picons-srp-hispasat.30w.100x60-86x46.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-hispasat.30w.100x60-86x46.dark.on.white
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-hispasat.30w.100x60-86x46.dark.on.white_2023-05-11--15-58-40_all.ipk
+Size: 386904
+MD5Sum: 639ae4a8b467baf5ddc47fa47edf42b1
+Description: srp-hispasat.30w.100x60-86x46.dark.on.white
+OE: enigma2-plugin-picons-srp-hispasat.30w.100x60-86x46.dark.on.white
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-hispasat.30w.100x60-86x46.light.on.black
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-hispasat.30w.100x60-86x46.light.on.black_2023-05-11--15-58-40_all.ipk
+Size: 451004
+MD5Sum: 37b83f79265422e3d04c6c4af05ee9c9
+Description: srp-hispasat.30w.100x60-86x46.light.on.black
+OE: enigma2-plugin-picons-srp-hispasat.30w.100x60-86x46.light.on.black
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-hispasat.30w.100x60-86x46.light.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-hispasat.30w.100x60-86x46.light.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 337374
+MD5Sum: fe8076b60c41fbf90fa4ecf51128a9dc
+Description: srp-hispasat.30w.100x60-86x46.light.on.transparent
+OE: enigma2-plugin-picons-srp-hispasat.30w.100x60-86x46.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-hispasat.30w.220x132-190x102.dark.on.blue
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-hispasat.30w.220x132-190x102.dark.on.blue_2023-05-11--15-58-40_all.ipk
+Size: 889640
+MD5Sum: df18e07ebe525646852f0a7187035e57
+Description: srp-hispasat.30w.220x132-190x102.dark.on.blue
+OE: enigma2-plugin-picons-srp-hispasat.30w.220x132-190x102.dark.on.blue
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-hispasat.30w.220x132-190x102.dark.on.reflection
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-hispasat.30w.220x132-190x102.dark.on.reflection_2023-05-11--15-58-40_all.ipk
+Size: 1055438
+MD5Sum: 446278c21924bdbd8d371940f414791c
+Description: srp-hispasat.30w.220x132-190x102.dark.on.reflection
+OE: enigma2-plugin-picons-srp-hispasat.30w.220x132-190x102.dark.on.reflection
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-hispasat.30w.220x132-190x102.dark.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-hispasat.30w.220x132-190x102.dark.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 660592
+MD5Sum: 95551bef3809cf9505877b1971190fa1
+Description: srp-hispasat.30w.220x132-190x102.dark.on.transparent
+OE: enigma2-plugin-picons-srp-hispasat.30w.220x132-190x102.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-hispasat.30w.220x132-190x102.dark.on.white
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-hispasat.30w.220x132-190x102.dark.on.white_2023-05-11--15-58-40_all.ipk
+Size: 749194
+MD5Sum: 83a7760cac2c4942c5ef2b248682ecb8
+Description: srp-hispasat.30w.220x132-190x102.dark.on.white
+OE: enigma2-plugin-picons-srp-hispasat.30w.220x132-190x102.dark.on.white
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-hispasat.30w.220x132-190x102.light.on.black-er
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-hispasat.30w.220x132-190x102.light.on.black-er_2023-05-11--15-58-40_all.ipk
+Size: 826376
+MD5Sum: 6ba042fd6c7ee677cef596a881f6cd13
+Description: srp-hispasat.30w.220x132-190x102.light.on.black-er
+OE: enigma2-plugin-picons-srp-hispasat.30w.220x132-190x102.light.on.black-er
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-hispasat.30w.220x132-190x102.light.on.black
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-hispasat.30w.220x132-190x102.light.on.black_2023-05-11--15-58-40_all.ipk
+Size: 918890
+MD5Sum: f2b4607bf93a46a3b4f1dd105c55eef8
+Description: srp-hispasat.30w.220x132-190x102.light.on.black
+OE: enigma2-plugin-picons-srp-hispasat.30w.220x132-190x102.light.on.black
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-hispasat.30w.220x132-190x102.light.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-hispasat.30w.220x132-190x102.light.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 654482
+MD5Sum: 50b72ddc75d3e61f1185409d8b647912
+Description: srp-hispasat.30w.220x132-190x102.light.on.transparent
+OE: enigma2-plugin-picons-srp-hispasat.30w.220x132-190x102.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-hispasat.30w.220x132-220x132.dark.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-hispasat.30w.220x132-220x132.dark.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 777560
+MD5Sum: de5aa67c19af9f61dcb06e1a0d711a97
+Description: srp-hispasat.30w.220x132-220x132.dark.on.transparent
+OE: enigma2-plugin-picons-srp-hispasat.30w.220x132-220x132.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-hispasat.30w.220x132-220x132.light.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-hispasat.30w.220x132-220x132.light.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 769608
+MD5Sum: 7090626b609a2d31711ed4cb4792a85e
+Description: srp-hispasat.30w.220x132-220x132.light.on.transparent
+OE: enigma2-plugin-picons-srp-hispasat.30w.220x132-220x132.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-hispasat.30w.400x170-370x140.dark.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-hispasat.30w.400x170-370x140.dark.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 1068066
+MD5Sum: 26cea75b2ae1f6b8a88813aff4d817e5
+Description: srp-hispasat.30w.400x170-370x140.dark.on.transparent
+OE: enigma2-plugin-picons-srp-hispasat.30w.400x170-370x140.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-hispasat.30w.400x240-370x210.dark.on.blue
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-hispasat.30w.400x240-370x210.dark.on.blue_2023-05-11--15-58-40_all.ipk
+Size: 1714980
+MD5Sum: fa2bf092fd5802c51b5af13d524ac1c9
+Description: srp-hispasat.30w.400x240-370x210.dark.on.blue
+OE: enigma2-plugin-picons-srp-hispasat.30w.400x240-370x210.dark.on.blue
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-hispasat.30w.400x240-370x210.light.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-hispasat.30w.400x240-370x210.light.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 1284700
+MD5Sum: 32723b4c6256718e578b937299c65d33
+Description: srp-hispasat.30w.400x240-370x210.light.on.transparent
+OE: enigma2-plugin-picons-srp-hispasat.30w.400x240-370x210.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-hispasat.30w.400x240-400x240.light.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-hispasat.30w.400x240-400x240.light.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 1421058
+MD5Sum: cfee7f6496ab8943117ce4c6bac44c79
+Description: srp-hispasat.30w.400x240-400x240.light.on.transparent
+OE: enigma2-plugin-picons-srp-hispasat.30w.400x240-400x240.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-nos.cabo.100x60-86x46.dark.on.blue
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-nos.cabo.100x60-86x46.dark.on.blue_2023-05-11--15-58-40_all.ipk
+Size: 470452
+MD5Sum: 5f382db73b161f1131cd826f65a7fde8
+Description: srp-nos.cabo.100x60-86x46.dark.on.blue
+OE: enigma2-plugin-picons-srp-nos.cabo.100x60-86x46.dark.on.blue
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-nos.cabo.100x60-86x46.dark.on.reflection
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-nos.cabo.100x60-86x46.dark.on.reflection_2023-05-11--15-58-40_all.ipk
+Size: 516118
+MD5Sum: 282500003cb2c6d261e2b79f12e1709b
+Description: srp-nos.cabo.100x60-86x46.dark.on.reflection
+OE: enigma2-plugin-picons-srp-nos.cabo.100x60-86x46.dark.on.reflection
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-nos.cabo.100x60-86x46.dark.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-nos.cabo.100x60-86x46.dark.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 365226
+MD5Sum: ee5333f9d8b79605e5fae40f5491989a
+Description: srp-nos.cabo.100x60-86x46.dark.on.transparent
+OE: enigma2-plugin-picons-srp-nos.cabo.100x60-86x46.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-nos.cabo.100x60-86x46.dark.on.white
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-nos.cabo.100x60-86x46.dark.on.white_2023-05-11--15-58-40_all.ipk
+Size: 409604
+MD5Sum: 8073c8049a439e0926fc6c31bfe9483c
+Description: srp-nos.cabo.100x60-86x46.dark.on.white
+OE: enigma2-plugin-picons-srp-nos.cabo.100x60-86x46.dark.on.white
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-nos.cabo.100x60-86x46.light.on.black
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-nos.cabo.100x60-86x46.light.on.black_2023-05-11--15-58-40_all.ipk
+Size: 479422
+MD5Sum: 5a227025c11c6d0119650acb4559a6a6
+Description: srp-nos.cabo.100x60-86x46.light.on.black
+OE: enigma2-plugin-picons-srp-nos.cabo.100x60-86x46.light.on.black
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-nos.cabo.100x60-86x46.light.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-nos.cabo.100x60-86x46.light.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 359348
+MD5Sum: 967d3cf71262040811ac613ef31f36c0
+Description: srp-nos.cabo.100x60-86x46.light.on.transparent
+OE: enigma2-plugin-picons-srp-nos.cabo.100x60-86x46.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-nos.cabo.220x132-190x102.dark.on.blue
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-nos.cabo.220x132-190x102.dark.on.blue_2023-05-11--15-58-40_all.ipk
+Size: 942290
+MD5Sum: 49dc2b2beb36ff6b472091ea48dfef69
+Description: srp-nos.cabo.220x132-190x102.dark.on.blue
+OE: enigma2-plugin-picons-srp-nos.cabo.220x132-190x102.dark.on.blue
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-nos.cabo.220x132-190x102.dark.on.reflection
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-nos.cabo.220x132-190x102.dark.on.reflection_2023-05-11--15-58-40_all.ipk
+Size: 1113376
+MD5Sum: 55784604cbb544257f754382a72e1fc4
+Description: srp-nos.cabo.220x132-190x102.dark.on.reflection
+OE: enigma2-plugin-picons-srp-nos.cabo.220x132-190x102.dark.on.reflection
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-nos.cabo.220x132-190x102.dark.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-nos.cabo.220x132-190x102.dark.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 697492
+MD5Sum: 76984e381dbb240c1d011d691aaeb87c
+Description: srp-nos.cabo.220x132-190x102.dark.on.transparent
+OE: enigma2-plugin-picons-srp-nos.cabo.220x132-190x102.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-nos.cabo.220x132-190x102.dark.on.white
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-nos.cabo.220x132-190x102.dark.on.white_2023-05-11--15-58-40_all.ipk
+Size: 793726
+MD5Sum: 8b1ef79fb2ea1bfe4ea3dc0f2a56feae
+Description: srp-nos.cabo.220x132-190x102.dark.on.white
+OE: enigma2-plugin-picons-srp-nos.cabo.220x132-190x102.dark.on.white
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-nos.cabo.220x132-190x102.light.on.black-er
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-nos.cabo.220x132-190x102.light.on.black-er_2023-05-11--15-58-40_all.ipk
+Size: 877962
+MD5Sum: 92e3a79dcd23f02824621ad0966b61f5
+Description: srp-nos.cabo.220x132-190x102.light.on.black-er
+OE: enigma2-plugin-picons-srp-nos.cabo.220x132-190x102.light.on.black-er
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-nos.cabo.220x132-190x102.light.on.black
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-nos.cabo.220x132-190x102.light.on.black_2023-05-11--15-58-40_all.ipk
+Size: 971618
+MD5Sum: 737407f32e70111fa6a19e908ca58268
+Description: srp-nos.cabo.220x132-190x102.light.on.black
+OE: enigma2-plugin-picons-srp-nos.cabo.220x132-190x102.light.on.black
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-nos.cabo.220x132-190x102.light.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-nos.cabo.220x132-190x102.light.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 688884
+MD5Sum: f9946e8bb01477d9b0fb512e577f7fe3
+Description: srp-nos.cabo.220x132-190x102.light.on.transparent
+OE: enigma2-plugin-picons-srp-nos.cabo.220x132-190x102.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-nos.cabo.220x132-220x132.dark.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-nos.cabo.220x132-220x132.dark.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 820246
+MD5Sum: 6892ea6a0f62a10e56b421ce065174bc
+Description: srp-nos.cabo.220x132-220x132.dark.on.transparent
+OE: enigma2-plugin-picons-srp-nos.cabo.220x132-220x132.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-nos.cabo.220x132-220x132.light.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-nos.cabo.220x132-220x132.light.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 810848
+MD5Sum: 23ab9d10dcde38b8792596ba67f4b2e6
+Description: srp-nos.cabo.220x132-220x132.light.on.transparent
+OE: enigma2-plugin-picons-srp-nos.cabo.220x132-220x132.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-nos.cabo.400x170-370x140.dark.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-nos.cabo.400x170-370x140.dark.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 1130330
+MD5Sum: 6a583430a5769213b74e3618d039bdc7
+Description: srp-nos.cabo.400x170-370x140.dark.on.transparent
+OE: enigma2-plugin-picons-srp-nos.cabo.400x170-370x140.dark.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-nos.cabo.400x240-370x210.dark.on.blue
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-nos.cabo.400x240-370x210.dark.on.blue_2023-05-11--15-58-40_all.ipk
+Size: 1804872
+MD5Sum: 84c26240b55464c2d7ba17d64287f0a1
+Description: srp-nos.cabo.400x240-370x210.dark.on.blue
+OE: enigma2-plugin-picons-srp-nos.cabo.400x240-370x210.dark.on.blue
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-nos.cabo.400x240-370x210.light.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-nos.cabo.400x240-370x210.light.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 1342740
+MD5Sum: ef81bd6c21dc5f3425fd978d0bf30645
+Description: srp-nos.cabo.400x240-370x210.light.on.transparent
+OE: enigma2-plugin-picons-srp-nos.cabo.400x240-370x210.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
+Package: enigma2-plugin-picons-srp-nos.cabo.400x240-400x240.light.on.transparent
+Version: 2023-05-11
+Section: base
+Architecture: all
+Maintainer: https://github.com/picons
+Source: https://github.com/picons
+Filename: enigma2-plugin-picons-srp-nos.cabo.400x240-400x240.light.on.transparent_2023-05-11--15-58-40_all.ipk
+Size: 1485230
+MD5Sum: a90cb673587ba49c6ca853c3d3963cbc
+Description: srp-nos.cabo.400x240-400x240.light.on.transparent
+OE: enigma2-plugin-picons-srp-nos.cabo.400x240-400x240.light.on.transparent
+HomePage: https://github.com/picons
+License: unknown
+Priority: optional
+
+
