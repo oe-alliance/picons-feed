@@ -30,7 +30,7 @@ jobs:
             while read -r RELATIVE_URL; do
               FILE_URL="https://openpicons.com/${RELATIVE_URL}"
               echo "Downloading: $FILE_URL"
-              wget -c --content-disposition "$FILE_URL"
+              wget -c -q --show-progress --content-disposition "$FILE_URL"
             done
           PAGE="https://openpicons.com/?dir=full-motor-srp/ipk"
           curl -s "$PAGE" | \
@@ -39,7 +39,7 @@ jobs:
             while read -r RELATIVE_URL; do
               FILE_URL="https://openpicons.com/${RELATIVE_URL}"
               echo "Downloading: $FILE_URL"
-              wget -c --content-disposition "$FILE_URL"
+              wget -c -q --show-progress --content-disposition "$FILE_URL"
             done
           rename 'y/A-Z/a-z/' *.ipk
           find . -name '*.ipk' -size +98M | xargs rm -f
