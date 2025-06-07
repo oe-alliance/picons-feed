@@ -23,8 +23,24 @@ jobs:
           touch ./Rel/.nojekyll
           cp ./feed/* ./Rel/
           cd ./Rel/
-          wget -c -nH -r -q -l0 -A "*.ipk" -np -nd --wait=3 --content-disposition --execute="robots = off" --reject="*.800x450*" https://openpicons.com/?dir=full-motor-snp/ipk
-          wget -c -nH -r -q -l0 -A "*.ipk" -np -nd --wait=3 --content-disposition --execute="robots = off" --reject="*.800x450*" https://openpicons.com/?dir=full-motor-srp/ipk
+          PAGE="https://openpicons.com/?dir=full-motor-snp/ipk"
+          curl -s "$PAGE" | \
+            grep -oP '(?<=href=")\?file=[^"]+\.ipk' | \
+            grep -v "800x450" | \
+            while read -r RELATIVE_URL; do
+              FILE_URL="https://openpicons.com/${RELATIVE_URL}"
+              echo "Downloading: $FILE_URL"
+              wget -c --content-disposition "$FILE_URL"
+            done
+          PAGE="https://openpicons.com/?dir=full-motor-srp/ipk"
+          curl -s "$PAGE" | \
+            grep -oP '(?<=href=")\?file=[^"]+\.ipk' | \
+            grep -v "800x450" | \
+            while read -r RELATIVE_URL; do
+              FILE_URL="https://openpicons.com/${RELATIVE_URL}"
+              echo "Downloading: $FILE_URL"
+              wget -c --content-disposition "$FILE_URL"
+            done
           rename 'y/A-Z/a-z/' *.ipk
           find . -name '*.ipk' -size +98M | xargs rm -f
           chmod 755 ipkg-make-index.sh
