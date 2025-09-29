@@ -49,6 +49,7 @@ jobs:
             done
       - name: make index
         run: |
+          cd ./Rel
           rename 'y/A-Z/a-z/' ./Rel/*.ipk
           find . -name '*.ipk' -size +98M | xargs rm -f
           chmod 755 ipkg-make-index.sh
