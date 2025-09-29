@@ -15,13 +15,21 @@ jobs:
         with:
           ref: 'main'
 
-      - name: Build
+      - name: Prepare
         run: |
           sudo apt-get -q update
           sudo apt install rename
           mkdir Rel
           touch ./Rel/.nojekyll
           cp ./feed/* ./Rel/
+      - name: Fetch additional IPKs
+        run: |
+          TMPDIR=$(mktemp -d)
+          git clone --depth 1 https://github.com/oe-alliance/picon-packages.git "$TMPDIR"
+          find "$TMPDIR" -type f -name '*.ipk' -exec cp {} ./Rel/ \;
+          rm -rf "$TMPDIR"
+      - name: Fetch openpicons
+        run: |
           cd ./Rel/
           PAGE="https://openpicons.com/?dir=full-motor-snp/ipk"
           curl -s "$PAGE" | \
@@ -39,7 +47,9 @@ jobs:
               FILE_URL="https://openpicons.com/${RELATIVE_URL}"
               wget -c -nv --content-disposition "$FILE_URL"
             done
-          rename 'y/A-Z/a-z/' *.ipk
+      - name: make index
+        run: |
+          rename 'y/A-Z/a-z/' ./Rel/*.ipk
           find . -name '*.ipk' -size +98M | xargs rm -f
           chmod 755 ipkg-make-index.sh
           ./ipkg-make-index.sh
