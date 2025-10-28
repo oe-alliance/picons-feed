@@ -22,16 +22,24 @@ jobs:
           mkdir Rel
           touch ./Rel/.nojekyll
           cp ./feed/* ./Rel/
-      - name: Fetch additional IPKs
-        run: |
-          TMPDIR=$(mktemp -d)
-          git clone --depth 1 https://github.com/oe-alliance/picon-packages.git "$TMPDIR"
-          find "$TMPDIR" -type f -name '*.ipk' -exec cp {} ./Rel/ \;
-          rm -rf "$TMPDIR"
+#      - name: Fetch additional IPKs
+#        run: |
+#          TMPDIR=$(mktemp -d)
+#          git clone --depth 1 https://github.com/oe-alliance/picon-packages.git "$TMPDIR"
+#          find "$TMPDIR" -type f -name '*.ipk' -exec cp {} ./Rel/ \;
+#          rm -rf "$TMPDIR"
       - name: Fetch openpicons
         run: |
           cd ./Rel/
           PAGE="https://openpicons.com/?dir=full-motor-snp/ipk"
+          curl -s "$PAGE" | \
+            grep -oP '(?<=href=")\?file=[^"]+\.ipk' | \
+            grep -v "800x450" | \
+            while read -r RELATIVE_URL; do
+              FILE_URL="https://openpicons.com/${RELATIVE_URL}"
+              wget -c -nv --content-disposition "$FILE_URL"
+            done
+          PAGE="https://openpicons.com/?dir=full-motor-utf8snp/ipk"
           curl -s "$PAGE" | \
             grep -oP '(?<=href=")\?file=[^"]+\.ipk' | \
             grep -v "800x450" | \
