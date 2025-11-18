@@ -2,7 +2,8 @@ name: build
 
 on:
   schedule:
-    - cron:  '1 1 * * *'
+    - cron: '0 5 * * 1'
+    - cron: '0 5 * * 4'
 
   workflow_dispatch:
 
